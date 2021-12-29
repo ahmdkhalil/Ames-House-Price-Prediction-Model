@@ -160,9 +160,9 @@ Original Features shape:
 Modelling:
 |Model name|RMSE_train|RMSE_test|RMSE_diff|
 |----------|----------|---------|---------|
-|Linear Regression|34129.99255625036|28454.996919535908|19.94375769135388%|
-|RidgeCV| 34197.84501831792 | 29100.180992133337 | 17.517636840687146%|
-|LassoCV| 34130.001740020234 | 28458.59286349288 | 19.92863422211828%|
+|Linear Regression|34130|28455 |19.9%|
+|RidgeCV| 34198 | 29100 | 17.5%|
+|LassoCV| 34130 | 28459 | 19.9%|
 
 The model is badly overfitted that will dealt later in future projects.
 
