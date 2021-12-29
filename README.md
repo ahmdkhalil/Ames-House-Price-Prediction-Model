@@ -1,4 +1,4 @@
-# Project 2 Predicting House Price (Ames Dataset)
+# Project 2 Ames House Price Prediciton Model
 
 ### Obejctive:  
 #### 1. Create a model that have a high probability of predicting correctly the house value based on features with high coefficient.
